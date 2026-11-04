@@ -1,0 +1,6 @@
+.env
+.env.*
+*.jks
+*.keystore
+*.pem
+*.key
